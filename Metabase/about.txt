@@ -1,0 +1,4 @@
+login: cs50@user.com / cs50@user.com
+
+how to run metabase locally:
+https://www.metabase.com/docs/latest/operations-guide/running-the-metabase-jar-file.html
